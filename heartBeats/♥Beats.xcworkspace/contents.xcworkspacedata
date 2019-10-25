@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:&#x2665;Beats/../Cisco.-Beats-Bridging-Header.h">
+   </FileRef>
+   <FileRef
+      location = "group:SpotifyiOS.framework">
+   </FileRef>
+   <FileRef
+      location = "container:&#x2665;Beats.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
